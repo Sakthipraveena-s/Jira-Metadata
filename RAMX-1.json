@@ -2,7 +2,7 @@
   "issue": {
     "key": "RAMX-1",
     "summary": "Epic 1",
-    "description": "Happy birthday     ",
+    "description": "Happy birthday",
     "labels": [],
     "components": [],
     "priority": "Medium",
@@ -24,7 +24,7 @@
   "comments": [
     {
       "author": "Sakthipraveena S",
-      "body": "sdfghjk "
+      "body": "sdfghjk"
     }
   ]
 }
