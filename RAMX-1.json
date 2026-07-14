@@ -1,0 +1,30 @@
+{
+  "issue": {
+    "key": "RAMX-1",
+    "summary": "Epic 1",
+    "description": "Happy birthday     ",
+    "labels": [],
+    "components": [],
+    "priority": "Medium",
+    "status": "To Do",
+    "assignee": "Ramya K",
+    "reporter": "Sakthipraveena S",
+    "issue_type": "Epic",
+    "epic": null,
+    "custom_fields": {
+      "Rank": "0|i0002f:"
+    }
+  },
+  "attachments": [
+    {
+      "filename": "Presentation.pptx",
+      "content": "Unsupported file type"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Sakthipraveena S",
+      "body": "sdfghjk "
+    }
+  ]
+}
