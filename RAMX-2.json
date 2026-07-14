@@ -1,0 +1,37 @@
+{
+  "issue": {
+    "key": "RAMX-2",
+    "summary": "Task 3",
+    "description": "{'type': 'doc', 'version': 1, 'content': [{'type': 'paragraph', 'content': [{'type': 'mediaInline', 'attrs': {'id': 'de571b7d-a153-4506-beea-d8cf7758200d', 'collection': '', 'type': 'file', 'localId': '7763892ae9c3'}}, {'type': 'text', 'text': '  PDF Word Documents Excel Images (OCR) Text files Markdown files'}], 'attrs': {'localId': '65372cd4d881'}}]}",
+    "labels": [],
+    "components": [],
+    "priority": "Medium",
+    "status": "In Review",
+    "assignee": "femina",
+    "reporter": "Sakthipraveena S",
+    "issue_type": "Feature",
+    "epic": null,
+    "custom_fields": {
+      "customfield_10036": "None",
+      "customfield_10020": "None",
+      "customfield_10021": "None",
+      "customfield_10016": "None",
+      "customfield_10019": "0|i0002n:",
+      "customfield_10015": "None",
+      "customfield_10040": "None",
+      "customfield_10001": "None"
+    }
+  },
+  "attachments": [
+    {
+      "filename": "Test case 7.xlsx",
+      "url": "https://ascendion-team-g70mbhb3.atlassian.net/rest/api/3/attachment/content/10082"
+    }
+  ],
+  "comments": [
+    {
+      "author": "Sakthipraveena S",
+      "body": "{'type': 'doc', 'version': 1, 'content': [{'type': 'paragraph', 'content': [{'type': 'text', 'text': 'xl file'}], 'attrs': {'localId': '3ae34daec22f'}}]}"
+    }
+  ]
+}
