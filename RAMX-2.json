@@ -2,7 +2,7 @@
   "issue": {
     "key": "RAMX-2",
     "summary": "Task 3",
-    "description": "  PDF Word Documents Excel Images (OCR) Text files Markdown files ",
+    "description": "PDF Word Documents Excel Images (OCR) Text files Markdown files",
     "labels": [],
     "components": [],
     "priority": "Medium",
@@ -519,7 +519,7 @@
   "comments": [
     {
       "author": "Sakthipraveena S",
-      "body": "xl file "
+      "body": "xl file"
     }
   ]
 }
