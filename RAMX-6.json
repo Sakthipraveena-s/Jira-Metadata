@@ -1,0 +1,20 @@
+{
+  "issue": {
+    "key": "RAMX-6",
+    "summary": "Trying to understand EEE pdf",
+    "description": "trying to check Jira workings",
+    "labels": [],
+    "components": [],
+    "priority": "Highest",
+    "status": "To Do",
+    "assignee": "Sakthipraveena S",
+    "reporter": "Sakthipraveena S",
+    "issue_type": "Bug",
+    "epic": "RAMX-1",
+    "custom_fields": {
+      "Rank": "0|i0003j:"
+    }
+  },
+  "attachments": [],
+  "comments": []
+}
